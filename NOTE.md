@@ -37,3 +37,4 @@
 - npm i cors (not installed yet)
 - npm i mongoose (not installed yet)
 - npm i nodemon -D
+- npm i cookie-parser (not installed yet)
