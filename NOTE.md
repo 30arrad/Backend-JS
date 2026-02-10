@@ -33,8 +33,21 @@
 # npm install
 
 - npm install express
-- npm i axios
-- npm i cors (not installed yet)
-- npm i mongoose (not installed yet)
-- npm i nodemon -D
-- npm i cookie-parser (not installed yet)
+- npm i axios 
+   - (for making HTTP requests from frontend to backend)
+- npm i cors 
+  - (for cross-origin resource sharing)
+- npm i mongoose 
+  - (for MongoDB object modeling)
+- npm i nodemon -D 
+  - (for development server auto restart)
+- npm i cookie-parser 
+  - (for parsing cookies)
+- npm i mongoose-aggregate-paginate-v2 
+  - (for pagination in MongoDB)
+- npm i bcrypt 
+  - (for password hashing)
+- npm i jsonwebtoken 
+  - (for token-based authentication)
+- npm i dotenv 
+  - (for environment variables)
