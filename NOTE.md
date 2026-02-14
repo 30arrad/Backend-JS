@@ -51,3 +51,7 @@
   - (for token-based authentication)
 - npm i dotenv 
   - (for environment variables)
+- npm i multer 
+  - (for handling file uploads)
+- npm i cloudinary 
+  - (for cloud-based image and video management)
